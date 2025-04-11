@@ -8,7 +8,7 @@ A simple and elegant "Coming Soon" webpage for a makeup brand called **HER**.
 
 ## 🎥 Project Demo
 
-[![Watch the video](Screen Recording 2025-04-04 180949)
+![Demo Video](Screen Recording 2025-04-04 180949.gif)
 
 > Replace `VIDEO_ID_HERE` with your actual YouTube video ID.
 
@@ -25,3 +25,6 @@ A simple and elegant "Coming Soon" webpage for a makeup brand called **HER**.
 git clone https://github.com/attreyee-tech/ComingSoon.git
 cd ComingSoon
 start index.html
+
+📄 License
+MIT © Attreyee Biswas
