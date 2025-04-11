@@ -5,7 +5,8 @@ A simple and elegant "Coming Soon" webpage for a makeup brand called **HER**.
 
 ## 🎥 Project Demo
 
-![Coming Soon Demo Video]((https://github.com/user-attachments/assets/f60982ce-0555-415e-90b7-c6054fb2d361))
+![comingsoonvid gif](https://github.com/user-attachments/assets/369d6916-76e4-4cd4-a284-a0127b6fe93b)
+
 
 
 
