@@ -2,15 +2,13 @@
 
 A simple and elegant "Coming Soon" webpage for a makeup brand called **HER**.
 
-## 🔗 Live Demo
-
-[View it here](https://attreyee-tech.github.io/ComingSoon/)
 
 ## 🎥 Project Demo
 
-![Demo Video](Screen Recording 2025-04-04 180949.gif)
+![Demo Video](![comingsoonvid gif](https://github.com/user-attachments/assets/f60982ce-0555-415e-90b7-c6054fb2d361)
+)
 
-> Replace `VIDEO_ID_HERE` with your actual YouTube video ID.
+
 
 ## 🚀 Features
 
@@ -26,5 +24,4 @@ git clone https://github.com/attreyee-tech/ComingSoon.git
 cd ComingSoon
 start index.html
 
-📄 License
-MIT © Attreyee Biswas
+
